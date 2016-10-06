@@ -18,3 +18,5 @@ exclude:
   
 disqus:
     shortname: https-vdenis-github-io
+
+google_analytics: UA-75642802-3
