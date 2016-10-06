@@ -8,11 +8,13 @@ categories: Android
 My settings for Android Studio projects.
 
 gradle.properties
+
 ```groovy
 org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 ```
 
 build.gradle
+
 ```groovy
 android {
     dexOptions {
