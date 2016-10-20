@@ -50,6 +50,6 @@ Make animated GIFs from video files, Youtube, or video websites.
 <img src="{{ site.url }}/assets/post-image/imgflip-make-gif-from-video-confing.png" style="max-height : 300px; margin-right: 80%;" alt="Upload video to the Imgflip.com site"/>
 
 4. Download your gif image
-<img src="{{ site.url }}\assets\post-image\imgflip-make-gif-from-video-download.png" style="max-height : 300px; margin-right: 80%;" alt="Download gif from the Imgflip.com site"/>
+<img src="{{ site.url }}/assets/post-image/imgflip-make-gif-from-video-download.png" style="max-height : 300px; margin-right: 80%;" alt="Download gif from the Imgflip.com site"/>
 
 It's Done! Hooray. 
