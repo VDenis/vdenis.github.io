@@ -33,10 +33,10 @@ This screen recording app will let you make beautiful screencast videos by provi
 <img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-1.png" style="max-height : 300px; margin-right: 80%;" alt="Open Android Monitor"/>
 
 3. Start record video by click the Record Video button. Set up resolution and bitrate (I choose 4Mbps and resolution by default. Lower bitrate - lower video size)
-<img src="{{ site.url }}/post-image/android-studio-record-video-from-device-2.png" style="max-height : 300px; margin-right: 80%;" alt="Start recording in Android Monitor"/>
+<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-2.png" style="max-height : 300px; margin-right: 80%;" alt="Start recording in Android Monitor"/>
 
 4. When you're done, close and save the recording
-<img src="{{ site.url }}/post-image/android-studio-record-video-from-device-3.png" style="max-height : 300px; margin-right: 80%;" alt="Save and close recording in Android Studio"/>
+<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-3.png" style="max-height : 300px; margin-right: 80%;" alt="Save and close recording in Android Studio"/>
 
 #### Use the Imgflip to convert from mp4 video to gif image
 
@@ -44,12 +44,12 @@ Make animated GIFs from video files, Youtube, or video websites.
 
 1. Go to the site: [Imgflip.com](https://imgflip.com/gifgenerator)
 2. Upload video to this site
-<img src="{{ site.url }}/post-image/imgflip-make-gif-from-video-upload.png" style="max-height : 300px; margin-right: 80%;" alt="Upload video to the Imgflip.com site"/>
+<img src="{{ site.url }}/assets/post-image/imgflip-make-gif-from-video-upload.png" style="max-height : 300px; margin-right: 80%;" alt="Upload video to the Imgflip.com site"/>
 
 3. Configure output gif image size, speed, trim your video. You can clip off the beginning or end of the video
-<img src="{{ site.url }}/post-image/imgflip-make-gif-from-video-confing.png" style="max-height : 300px; margin-right: 80%;" alt="Upload video to the Imgflip.com site"/>
+<img src="{{ site.url }}/assets/post-image/imgflip-make-gif-from-video-confing.png" style="max-height : 300px; margin-right: 80%;" alt="Upload video to the Imgflip.com site"/>
 
 4. Download your gif image
-<img src="{{ site.url }}\post-image\imgflip-make-gif-from-video-download.png" style="max-height : 300px; margin-right: 80%;" alt="Download gif from the Imgflip.com site"/>
+<img src="{{ site.url }}\assets\post-image\imgflip-make-gif-from-video-download.png" style="max-height : 300px; margin-right: 80%;" alt="Download gif from the Imgflip.com site"/>
 
 It's Done! Hooray. 
