@@ -22,7 +22,7 @@ This screen recording app will let you make beautiful screencast videos by provi
 * Can create Gif animation in pro version
 * Can create screenshots in free version
 * Download apk from the [Google Play](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
-<img src=".\..\assets\post-image\az-screen-recorder-no-Root.png" style="max-height : 300px; margin-right: 80%;" alt="AZ Screen Recorder"/>
+<img src="./../assets/post-image/az-screen-recorder-no-Root.png" style="max-height : 300px; margin-right: 80%;" alt="AZ Screen Recorder"/>
 
 ### Android Studio Record video from device
 
