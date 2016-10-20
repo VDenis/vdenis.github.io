@@ -22,7 +22,7 @@ This screen recording app will let you make beautiful screencast videos by provi
 * Can create Gif animation in pro version
 * Can create screenshots in free version
 * Download apk from the [Google Play](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
-<img src="{{ site.url }}/assets/post-image/az-screen-recorder-no-Root.png" style="display: block;margin: auto;width: 80%;" alt="AZ Screen Recorder"/>
+<img src="{{ site.url }}/assets/post-image/az-screen-recorder-no-Root.png" style="display: block;margin: auto;max-height: 300px;" alt="AZ Screen Recorder"/>
 
 ### Android Studio Record video from device
 
@@ -30,13 +30,13 @@ This screen recording app will let you make beautiful screencast videos by provi
 
 1. Start Android Studio and run your application
 2. Go to the Android Monitor at the bottom of Android Studio
-<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-1.png" style="display: block;margin: auto;width: 80%;" alt="Open Android Monitor"/>
+<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-1.png" style="display: block;margin: auto;max-height: 300px;" alt="Open Android Monitor"/>
 
 3. Start record video by click the Record Video button. Set up resolution and bitrate (I choose 4Mbps and resolution by default. Lower bitrate - lower video size)
-<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-2.png" style="display: block;margin: auto;width: 80%;" alt="Start recording in Android Monitor"/>
+<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-2.png" style="display: block;margin: auto;max-height: 300px;" alt="Start recording in Android Monitor"/>
 
 4. When you're done, close and save the recording
-<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-3.png" style="max-height : 300px; margin-right: 80%;" alt="Save and close recording in Android Studio"/>
+<img src="{{ site.url }}/assets/post-image/android-studio-record-video-from-device-3.png" style="display: block;margin: auto;max-height: 300px;" alt="Save and close recording in Android Studio"/>
 
 #### Use the Imgflip to convert from mp4 video to gif image
 
