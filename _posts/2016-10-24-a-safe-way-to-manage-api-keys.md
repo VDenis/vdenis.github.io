@@ -21,6 +21,7 @@ Put xml file "api_keys.xml" in the directory "res/value/".
 ```
 
 *use api keys in java code*
+
 ```java
 getString(R.string.THE_MOVIE_DB_API_TOKEN);
 ```
@@ -36,11 +37,13 @@ getString(R.string.THE_MOVIE_DB_API_TOKEN);
 Add the following line to [USER_HOME]/.gradle/gradle.properties
 
 *For Windows OS, example for Denis user:* 
+
 ```
 C:\Users\Denis\.gradle
 ```
 
 *gradle.properties*
+
 ```xml
 MyTheMovieDBApiToken="XXXXX"
 ```
@@ -48,6 +51,7 @@ MyTheMovieDBApiToken="XXXXX"
 Add the following code to the build.gradle file
 
 *build.gradle*
+
 ```gradle
 apply plugin: 'com.android.application'
 
@@ -69,6 +73,7 @@ android {
 ```
 
 *use api keys in java code*
+
 ```java
 BuildConfig.THE_MOVIE_DB_API_TOKEN)
 ```
@@ -76,11 +81,13 @@ BuildConfig.THE_MOVIE_DB_API_TOKEN)
 ## 2.2 Store api keys with help of gradle and the gradle.properties file (Java + XML)
 
 *gradle.properties*
+
 ```
 AppKey="XXXX-XXXX"
 ```
 
 *build.gradle*
+
 ```groovy
 buildTypes {
 //...
@@ -92,6 +99,7 @@ buildTypes {
 ```
 
 *Usage in java code*
+
 ```java
 Log.d("UserActivity", "onCreate, APP_KEY: " + getString(R.string.APP_KEY_2));
 
@@ -99,6 +107,7 @@ BuildConfig.APP_KEY_1
 ```
 
 *Usage in xml code*
+
 ```xml
 <data android:scheme="@string/APP_KEY_2" />
 ```
@@ -120,6 +129,7 @@ Add new system PATH variable *THE_MOVIE_DB_API_TOKEN="XXXXX"*:
 Add the following code to the build.gradle file
 
 *build.gradle*
+
 ```gradle
 apply plugin: 'com.android.application'
 
@@ -141,6 +151,7 @@ android {
 ```
 
 *use api keys in java code*
+
 ```java
 BuildConfig.THE_MOVIE_DB_API_TOKEN)
 ```
