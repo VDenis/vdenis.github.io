@@ -12,6 +12,7 @@ Some times ago i faced with the problem - "Where to store api keys and don't com
 Put xml file "api_keys.xml" in the directory "res/value/".
 
 *api_keys.xml*
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
