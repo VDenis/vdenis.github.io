@@ -6,7 +6,9 @@ date:   2016-10-24 12:00:00 +0300
 categories: android, gradle, java, xml, git, api
 ---
 
-Some times ago i faced with the problem - "Where to store api keys and don't commit them to the public git repository one day?". I made research and found next solutions:
+Some times ago i faced with the problem - *"Where to store api keys and don't commit them to the public git repository one day?"*.
+
+### I made research and found next solutions:
 
 ## 1. Store api keys in a xml file
 Put xml file "api_keys.xml" in the directory "res/value/".
@@ -25,8 +27,6 @@ Put xml file "api_keys.xml" in the directory "res/value/".
 ```java
 getString(R.string.THE_MOVIE_DB_API_TOKEN);
 ```
-
----
 
 ## 2.1 Store api keys with help of gradle and the gradle.properties file (Java)
 
@@ -111,8 +111,6 @@ BuildConfig.APP_KEY_1
 ```xml
 <data android:scheme="@string/APP_KEY_2" />
 ```
-
----
 
 ## 3. Store api keys with help of gradle and the system path variable
 
