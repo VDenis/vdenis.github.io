@@ -2,7 +2,7 @@
 published: true
 layout: post
 title:  "A safe way to manage api keys"
-date:   2016-10-22 12:00:00 +0300
+date:   2016-10-24 12:00:00 +0300
 categories: android, gradle, java, xml, git, api
 ---
 
