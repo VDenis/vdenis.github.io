@@ -156,11 +156,11 @@ android {
 BuildConfig.THE_MOVIE_DB_API_TOKEN)
 ```
 
-### Link to my gist on GitHub
+### Link to my gist on the GitHub
 
 [My store api keys gist](https://gist.github.com/VDenis/46c222b16683447bab33)
 
-### Answers on the same topic on Stack Overflow:
+### Answers on the same topic on the Stack Overflow:
 
 * [Is it possible to declare a variable in Gradle usable in Java?](http://stackoverflow.com/questions/17197636/is-it-possible-to-declare-a-variable-in-gradle-usable-in-java/35650390#35650390)
 * [Is there a safe way to manage API keys?](http://stackoverflow.com/questions/33134031/is-there-a-safe-way-to-manage-api-keys/34021467#34021467)
