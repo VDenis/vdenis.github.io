@@ -3,7 +3,7 @@ published: true
 layout: post
 title:  "Create gif image for GitHub readme"
 date:   2016-10-20 14:00:00 +0300
-categories: android, github, gif, android-studio
+categories: android
 ---
 
 Once you write an application or library. You want to share it with other people. 

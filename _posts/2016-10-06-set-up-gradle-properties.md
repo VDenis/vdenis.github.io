@@ -2,7 +2,7 @@
 layout: post
 title:  "Set up Android Studio projects"
 date:   2016-10-06 14:00:00 +0300
-categories: android, android-studio
+categories: android
 ---
 
 My settings for Android Studio projects.

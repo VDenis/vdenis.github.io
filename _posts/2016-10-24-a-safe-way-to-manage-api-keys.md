@@ -3,7 +3,7 @@ published: true
 layout: post
 title:  "A safe way to manage api keys"
 date:   2016-10-24 12:00:00 +0300
-categories: android, gradle, java, xml, git, api
+categories: android
 ---
 
 Some times ago i faced with the problem - *"Where to store api keys and don't commit them to the public git repository one day?"*.
